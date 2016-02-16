@@ -627,6 +627,10 @@ export default Ember.Component.extend({
 });
 ```
 
+## Other Resources
+
+* [EmberScreencasts video on setting up and using ember-computed-decorators](https://www.emberscreencasts.com/posts/116-ember-computed-decorators)
+
 ## Installation
 
 * `git clone` this repository
